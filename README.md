@@ -12,7 +12,10 @@ Documentation
 Demonstration
 -------------------------
 
-Sandbox is also deployed for a live demonstration of most of our bundle : [sandbox][2]
+Sandbox is also deployed for a live demonstration of most of our bundle :
+
+* [Prestacms-sandox available on github][2]
+* [Online demo][4]
 
 Ask for help
 -------------------------
@@ -22,21 +25,21 @@ Ask for help
 Issue label description
 -------------------------
 
-** type **
+###type
 
-* bug * : this is a bug and should be corrected
-* question * : this is an open question about new features, missing documentation ....
-* easy-pick * : this is made if somebody want to enter in the the project
-* feature * : new feature
-* code-quality * : sensio insight or scrutinizer-ci issue
-* refactoring * :  not a bug not a feature but to make the code better
-* documentation * : everything about documentation and not code
+**bug**             | a bug and should be corrected
+**question**        | an open question about new features, missing documentation ....
+**easy-pick**       | made if somebody want to enter in the the project
+**feature**         | new feature
+**code-quality**    | sensio insight or scrutinizer-ci issue
+**refactoring**     | not a bug not a feature but to make the code better
+**documentation**   | everything about documentation and not code
 
-** priority **
+###priority
 
-* priority-broken * :
-* priority-major * :
-* priority-minor * :
+**priority-broken** | application is broken : highest level
+**priority-major**  | important
+**priority-minor**  | lowest level
 
 
 Issue Workflow
@@ -65,4 +68,4 @@ But to maintain project quality we ask you to :
 [1]: http://prestaconcept.github.io
 [2]: https://github.com/prestaconcept/prestacms-sandbox
 [3]: https://groups.google.com/forum/?hl=fr&fromgroups#!forum/prestacms-devs
-
+[4]: http://sandbox.prestacms.com/
