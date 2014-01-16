@@ -27,6 +27,8 @@ Issue label description
 
 ###type
 
+Label | Description
+--- | ---
 **bug**             | a bug and should be corrected
 **question**        | an open question about new features, missing documentation ....
 **easy-pick**       | made if somebody want to enter in the the project
@@ -37,6 +39,8 @@ Issue label description
 
 ###priority
 
+Label | Description
+--- | ---
 **priority-broken** | application is broken : highest level
 **priority-major**  | important
 **priority-minor**  | lowest level
