@@ -76,3 +76,7 @@ But to maintain project quality we ask you to :
 [2]: https://github.com/prestaconcept/prestacms-sandbox
 [3]: https://groups.google.com/forum/?hl=fr&fromgroups#!forum/prestacms-devs
 [4]: http://sandbox.prestacms.com/
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/prestaconcept/open-source-management/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
