@@ -29,13 +29,14 @@ Issue label description
 
 Label | Description
 --- | ---
-**bug**             | a bug and should be corrected
-**question**        | an open question about new features, missing documentation ....
-**easy-pick**       | made if somebody want to enter in the the project
-**feature**         | new feature
-**code-quality**    | sensio insight or scrutinizer-ci issue
-**refactoring**     | not a bug not a feature but to make the code better
-**documentation**   | everything about documentation and not code
+**bug**                 | a bug and should be corrected
+**question**            | an open question about new features, missing documentation ....
+**easy-pick**           | made if somebody want to enter in the the project
+**feature**             | new feature
+**code-quality**        | sensio insight or scrutinizer-ci issue
+**refactoring**         | not a bug not a feature but to make the code better
+**documentation**       | everything about documentation and not code
+**need-specification*** | need do be clearly specified before coding anything
 
 ###priority
 
