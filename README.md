@@ -22,6 +22,8 @@ Ask for help
 
 :speech_balloon: If you need help about this project you can [post a message on our google group][3]
 
+:link: To link your commit comment to the corresponding issue just add : prestaconcept/open-source-management#[Issue_id]
+
 Issue label description
 -------------------------
 
