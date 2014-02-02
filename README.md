@@ -69,7 +69,7 @@ But to maintain project quality we ask you to :
 
 *This project is supported by [PrestaConcept](http://www.prestaconcept.net)*
 
-** Lead Developer ** : [@nicolas-bastien](https://github.com/nicolas-bastien)
+**Lead Developer** : [@nicolas-bastien](https://github.com/nicolas-bastien)
 
 
 [1]: http://prestaconcept.github.io
